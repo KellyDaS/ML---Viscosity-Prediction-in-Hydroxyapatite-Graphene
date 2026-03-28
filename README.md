@@ -21,3 +21,6 @@ providing the best LOFO performance (R² = 0.765; MAE = 7.27 Pa·s). For virtual
 within a target printability window of 0.1–1000 Pa·s. External validation using seven newly prepared inks yielded R² values between 0.737 and 0.776 and MAE values between 3.46 and 3.88 Pa·s,
 confirming the predictive utility of the ST4 model family. These results demonstrate that group-aware validation is essential for small rheological datasets and that physically 
 informed ensemble models support data-driven screening of ceramic inks for biomedical additive manufacturing.
+
+
+Keywords: Viscosity prediction; Hydroxyapatite/reduced graphene oxide inks; Rheology of ceramic suspensions; Ensemble machine learning; Biomedical additive manufacturing.
