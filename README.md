@@ -1,6 +1,6 @@
 Data-Driven Viscosity Prediction in Hydroxyapatite/Graphene Inks for Additive Manufacturing: A Comparative Study of Machine Learning Models
 
-Andreza Menezes Limaa (andrezamenezeslima@gmail.com), Kelly Cristine da Silveira (kelly.silveira@int.gov.br), Jayron Pereira de Andrade, Americo Cunha Jr, Alexandre Antunes Ribeiro, Antônio J. Silva Neto
+Andreza Menezes Lima (andrezamenezeslima@gmail.com), Kelly Cristine da Silveira (kelly.silveira@int.gov.br), Jayron Pereira de Andrade, Americo Cunha Jr, Alexandre Antunes Ribeiro, Antônio J. Silva Neto
 
 Rio de Janeiro State University, Polytechnic Institute, Rua Bonfim, n° 25, 28625-570, Nova Friburgo, RJ, Brazil.
 Rio de Janeiro State University, Institute of Mathematics and Statistics, Rua São Francisco Xavier, 524, 20550-900, Rio de Janeiro, RJ, Brazil.
